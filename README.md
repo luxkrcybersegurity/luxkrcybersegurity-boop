@@ -163,6 +163,4 @@ Diversificación que garantiza sostenibilidad más allá del SCF.
 > **Elevar el estándar de seguridad del ecosistema Stellar en LATAM**
 > formando talento, auditando proyectos y construyendo herramientas abiertas.
 
----
 
-**🟣 LUXKR+ — Seguridad nativa, impacto global, hecha en LATAM.**
